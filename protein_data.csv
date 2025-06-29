@@ -1,0 +1,1377 @@
+Food Name,Protein (g),Category,Protein_Cluster,Protein_Level
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 5, select",23.4,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 10, select",23.9,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 11, select",23.5,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 16, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 17, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 18, select",24.0,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 22, select",23.9,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 23, select",23.3,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 28, select",22.9,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 29, select",23.3,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 35, select",22.7,Beef Products,0,Medium
+"Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 36, select",22.6,Beef Products,0,Medium
+"Hummus, commercial",7.35,Legumes and Legume Products,1,Low
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",3.35,Dairy and Egg Products,1,Low
+"Tomatoes, grape, raw",0.83,Vegetables and Vegetable Products,1,Low
+"Beans, snap, green, canned, regular pack, drained solids",1.04,Vegetables and Vegetable Products,1,Low
+"Broccoli, raw",2.57,Vegetables and Vegetable Products,1,Low
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",3.38,Dairy and Egg Products,1,Low
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",3.43,Dairy and Egg Products,1,Low
+"Milk, whole, 3.25% milkfat, with added vitamin D",3.28,Dairy and Egg Products,1,Low
+"Frankfurter, beef, unheated",11.7,Sausages and Luncheon Meats,1,Low
+"Nuts, almonds, dry roasted, with salt added",20.4,Nut and Seed Products,0,Medium
+"Cheese, ricotta, whole milk",7.81,Dairy and Egg Products,1,Low
+"Kale, raw",2.92,Vegetables and Vegetable Products,1,Low
+"Egg, whole, raw, frozen, pasteurized",12.3,Dairy and Egg Products,1,Low
+"Egg, white, raw, frozen, pasteurized",10.1,Dairy and Egg Products,1,Low
+"Egg, white, dried",79.9,Dairy and Egg Products,2,High
+"Sauce, salsa, ready-to-serve",1.44,"Soups, Sauces, and Gravies",1,Low
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",13.3,Sausages and Luncheon Meats,1,Low
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven",4.52,Vegetables and Vegetable Products,1,Low
+"Pickles, cucumber, dill or kosher dill",0.48,Vegetables and Vegetable Products,1,Low
+"Peanut butter, smooth style, with salt",22.5,Legumes and Legume Products,0,Medium
+"Cheese, parmesan, grated",29.6,Dairy and Egg Products,0,Medium
+"Cheese, pasteurized process, American, vitamin D fortified",18.0,Dairy and Egg Products,0,Medium
+"Grapefruit juice, white, canned or bottled, unsweetened",0.55,Fruits and Fruit Juices,1,Low
+"Peaches, yellow, raw",0.91,Fruits and Fruit Juices,1,Low
+"Seeds, sunflower seed kernels, dry roasted, with salt added",21.0,Nut and Seed Products,0,Medium
+"Sausage, Italian, pork, mild, cooked, pan-fried",18.2,Sausages and Luncheon Meats,0,Medium
+"Bread, white, commercially prepared",9.43,Baked Products,1,Low
+"Sausage, turkey, breakfast links, mild, raw",16.7,Sausages and Luncheon Meats,0,Medium
+"Cheese, swiss",27.0,Dairy and Egg Products,0,Medium
+"Kale, frozen, cooked, boiled, drained, without salt",2.94,Vegetables and Vegetable Products,1,Low
+"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",0.81,Vegetables and Vegetable Products,1,Low
+"Mustard, prepared, yellow",4.25,Spices and Herbs,1,Low
+"Figs, dried, uncooked",3.3,Fruits and Fruit Juices,1,Low
+"Kiwifruit, green, raw",1.06,Fruits and Fruit Juices,1,Low
+"Melons, cantaloupe, raw",0.82,Fruits and Fruit Juices,1,Low
+"Nectarines, raw",1.06,Fruits and Fruit Juices,1,Low
+"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",0.91,Fruits and Fruit Juices,1,Low
+"Strawberries, raw",0.64,Fruits and Fruit Juices,1,Low
+"Lettuce, cos or romaine, raw",1.24,Vegetables and Vegetable Products,1,Low
+"Cheese, cheddar",23.3,Dairy and Egg Products,0,Medium
+"Cheese, cottage, lowfat, 2% milkfat",11.0,Dairy and Egg Products,1,Low
+"Cheese, mozzarella, low moisture, part-skim",23.7,Dairy and Egg Products,0,Medium
+"Egg, whole, dried",48.1,Dairy and Egg Products,0,Medium
+"Egg, yolk, raw, frozen, pasteurized",15.6,Dairy and Egg Products,0,Medium
+"Egg, yolk, dried",34.2,Dairy and Egg Products,0,Medium
+"Cheese, dry white, queso seco",24.5,Dairy and Egg Products,0,Medium
+"Yogurt, Greek, plain, nonfat",10.3,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (CO,CT) - NFY120OO0",7.95,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (AL,CA1) - NFY120ON9",8.21,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (MI,OK) - NFY120OOL",7.98,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (FL,MO) - NFY120OO8",7.91,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (FL,CT) - NFY120PA7",8.32,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (CA2,NC) - NFY120ONI",7.88,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (AL,CA1) - NFY120OP9",7.66,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (IN,NY) - NFY120OMR",8.27,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (IN,NY) - NFY120OOV",8.07,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (CO,CT) - NFY120OPV",7.92,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (MI,OK) - NFY120OQI",8.36,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (NY,NC) - NFY120ORF",8.06,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (CA2,CO) - NFY120OS1",8.09,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (FL,MO) - NFY120OQ2",8.24,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (CA1,OK) - NFY120OQS",8.16,Dairy and Egg Products,1,Low
+"Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (CA2,NC) - NFY120OPG",7.96,Dairy and Egg Products,1,Low
+"Yogurt, Greek, strawberry, nonfat",8.06,Dairy and Egg Products,1,Low
+"Oil, coconut",0.0,Fats and Oils,1,Low
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (AL1)",26.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (National) ",18.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (FL1,MO1,NY1) ",18.0,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (MI1) ",18.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (MI1)",27.3,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (National) ",26.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (FL1,MO1,NY1) ",27.0,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (MI1) ",28.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA2,NC1) ",18.9,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (NC1) ",18.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (NC1)",25.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA2,NC1) ",26.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (NC1) ",25.3,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CO1,CT1,IN1) ",18.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CO1) ",20.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CO1)",29.0,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CO1,CT1,IN1) ",25.7,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CO1) ",25.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (AL1,CA1,MI1) ",19.2,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (NY1) ",18.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (NY1)",26.2,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (AL1,CA1,MI1) ",26.2,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (NY1) ",23.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (FL1) ",20.1,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (FL1)",28.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (FL1) ",25.9,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (MO1) ",17.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (MO1)",26.9,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (MO1) ",23.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA1) ",18.6,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CA1)",26.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA1) ",24.9,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (IN1) ",18.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (IN1)",27.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (IN1) ",25.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA2) ",19.7,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CA2)",27.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA2) ",27.5,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CT1) ",17.4,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CT1)",26.0,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CT1) ",26.1,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (AL1) ",17.8,Poultry Products,0,Medium
+"Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (AL1) ",28.0,Poultry Products,0,Medium
+"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",27.1,Poultry Products,0,Medium
+"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",23.9,Poultry Products,0,Medium
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",32.1,Poultry Products,0,Medium
+"Sauce, pasta, spaghetti/marinara, ready-to-serve",1.41,"Soups, Sauces, and Gravies",1,Low
+"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",16.7,Sausages and Luncheon Meats,0,Medium
+"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",0.38,Fruits and Fruit Juices,1,Low
+"Olives, green, Manzanilla, stuffed with pimiento",1.15,Fruits and Fruit Juices,1,Low
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",19.3,Sausages and Luncheon Meats,0,Medium
+"Cookies, oatmeal, soft, with raisins",5.79,Baked Products,1,Low
+"Tomatoes, canned, red, ripe, diced",0.84,Vegetables and Vegetable Products,1,Low
+"Fish, haddock, raw",16.3,Finfish and Shellfish Products,0,Medium
+"Fish, pollock, raw",12.3,Finfish and Shellfish Products,1,Low
+"Fish, tuna, light, canned in water, drained solids",19.0,Finfish and Shellfish Products,0,Medium
+"Sugars, granulated",0.0,Sweets,1,Low
+"Restaurant, Chinese, sweet and sour pork",8.88,Restaurant Foods,1,Low
+"Restaurant, Chinese, fried rice, without meat",3.84,Restaurant Foods,1,Low
+"Restaurant, Latino, tamale, pork",7.38,Restaurant Foods,1,Low
+"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",5.59,Restaurant Foods,1,Low
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 3, lowerchoice",22.4,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 14, lowerchoice",23.8,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 1, upperchoice",21.7,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 12, upperchoice",23.1,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 13, upperchoice",23.5,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 19, upperchoice",23.0,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 2, upperchoice",22.2,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 24, upperchoice",22.3,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 25, upperchoice",21.9,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 30, upperchoice",23.6,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 31, upperchoice",22.1,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 32, upperchoice",22.3,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 6, upperchoice",23.5,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 7, upperchoice",22.7,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 15, lowerchoice",23.7,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 20, lowerchoice",23.2,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 21, lowerchoice",23.9,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 26, lowerchoice",22.9,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 27, lowerchoice",22.0,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 33, lowerchoice",22.7,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 34, lowerchoice",22.6,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 4, lowerchoice",22.4,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 8, lowerchoice",23.4,Beef Products,0,Medium
+"Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 9, lowerchoice",23.3,Beef Products,0,Medium
+"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",22.8,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 5, select",25.6,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 18, select",28.9,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 22, select",27.8,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 23, select",27.0,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 28, select",27.8,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 29, select",27.8,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 35, select",26.5,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 10, select",29.1,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 11, select",28.8,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 16, select",29.1,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 17, select",26.5,Beef Products,0,Medium
+"Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 36, select",26.9,Beef Products,0,Medium
+"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",27.7,Beef Products,0,Medium
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",23.4,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 5, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 10, select",24.9,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 11, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 16, select",24.2,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 17, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 18, select",24.9,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 22, select",23.6,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 23, select",23.2,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 28, select",22.7,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 29, select",23.9,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 35, select",22.8,Beef Products,0,Medium
+"Proximates, Beef, Top Round roast/steak, lean only, raw, animal 36, select",22.2,Beef Products,0,Medium
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",23.7,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 12, upperchoice",27.9,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 1, upperchoice",25.4,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 19, upperchoice",26.3,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 24, upperchoice",27.7,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 25, upperchoice",28.3,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 30, upperchoice",27.0,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 31, upperchoice",27.0,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 32, upperchoice",25.4,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 2, upperchoice",24.6,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 6, upperchoice",28.0,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 7, upperchoice",27.9,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 13, upperchoice",28.2,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 20, lowerchoice",26.7,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 21, lowerchoice",28.0,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 3, lowerchoice",26.4,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 4, lowerchoice",25.8,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 8, lowerchoice",28.5,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 9, lowerchoice",28.6,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 14, lowerchoice",27.9,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 15, lowerchoice",30.4,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 26, lowerchoice",29.9,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 27, lowerchoice",26.3,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 33, lowerchoice",27.9,Beef Products,0,Medium
+"Proximates, Beef, T-Bone Steak, lean only, cooked, animal 34, lowerchoice",26.0,Beef Products,0,Medium
+"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",27.3,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 5, select",21.5,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 10, select",23.5,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 11, select",22.9,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 16, select",23.5,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 17, select",23.1,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 18, select",23.8,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 22, select",23.6,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 23, select",22.4,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 28, select",22.4,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 29, select",22.3,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 35, select",22.0,Beef Products,0,Medium
+"Proximates, Beef, Porterhouse Steak, lean only, raw, animal 36, select",21.0,Beef Products,0,Medium
+"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",22.7,Beef Products,0,Medium
+"Bread, whole-wheat, commercially prepared",12.3,Baked Products,1,Low
+"Beans, Dry, Dark Red Kidney, 11F-8074 (0% moisture)",27.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Dark Red Kidney, 11F-8130 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Dark Red Kidney, 11F-8040 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Dark Red Kidney, 11F-8132 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Dark Red Kidney (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8082 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8190 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8034 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8188 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8197 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8197 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8084 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8193 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8058 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8149 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8059 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8124 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8041 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8156 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8019 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8136 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8018 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8187 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8105 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 11F-8105 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 483 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 641 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 481 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 817 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 399 (0% moisture)",20.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 779 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 430 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 699 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 478 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 803 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 504 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 636 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 404 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 794 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 461 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 629 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 411 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 732 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 342 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 342 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 502 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 819 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 359 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 687 (0% moisture)",21.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 321 (0% moisture)",21.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 739 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 338 (0% moisture)",20.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 712 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 445 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 796 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 477 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 752 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 486 (0% moisture)",26.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 701 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 433 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 725 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 448 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 652 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 354 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink, 664 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8043 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8162 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8007 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8195 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8027 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8165 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8098 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8107 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8028 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8179 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8030 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8143 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8004 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 11F-8183 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 287 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 613 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 289 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 560 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 279 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 586 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 233 (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 584 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 229 (0% moisture)",22.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 603 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 299 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 585 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 292 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 576 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 261 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 582 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 230 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 557 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 242 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 556 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 320 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 595 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 311 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 578 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 280 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 598 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 245 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 605 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 262 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 588 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 284 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 599 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 256 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 524 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 476 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 260 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 771 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 627 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 255 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 568 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 294 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 589 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 246 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 587 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 236 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 530 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 241 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 554 (0% moisture)",28.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 234 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 626 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 228 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 623 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 268 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 548 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 386 (0% moisture)",22.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 719 (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 253 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 523 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 319 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 609 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 422 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 313 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 721 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 561 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 283 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 525 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 264 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 567 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 226 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 558 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 281 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 546 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 295 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 543 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 220 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 521 (0% moisture)",26.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 213 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 628 (0% moisture)",26.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 237 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 532 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 316 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 535 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 290 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 539 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 307 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 614 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 252 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 565 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 277 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 559 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 216 (0% moisture)",20.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 541 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 312 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 551 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 257 (0% moisture)",22.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 555 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 308 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy, 612 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Red Kidney, 11F-8186 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Red Kidney, 11F-8186 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Red Kidney (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Brown, 351 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Brown, 679 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Brown (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Flor de Mayo, 443 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Flor de Mayo, 823 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Flor de Mayo (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca, 11F-8001 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca, 11F-8104 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca, 217 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca, 622 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 11F-8005 (0% moisture)",27.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 11F-8175 (0% moisture)",28.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 11F-8042 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 11F-8148 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 302 (0% moisture)",27.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 540 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 231 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan, 577 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8006 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8106 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8091 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8147 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8075 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8157 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8096 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8191 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8012 (0% moisture)",27.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8170 (0% moisture)",27.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8099 (0% moisture)",27.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8114 (0% moisture)",29.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8024 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8151 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8081 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8133 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8035 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8164 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8048 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8144 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8088 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8159 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8069 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8101 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8089 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8167 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8094 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8121 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8049 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8176 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8095 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8173 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8038 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8196 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8047 (0% moisture)",27.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8108 (0% moisture)",27.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8031 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8120 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8078 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8100 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8032 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8109 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8037 (0% moisture)",20.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8182 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8054 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8181 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8055 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8166 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8079 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8118 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8026 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8103 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8070 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8198 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8083 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8126 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8076 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8178 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8065 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8102 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8072 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 11F-8189 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 465 (0% moisture)",29.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 761 (0% moisture)",27.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 435 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 743 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 326 (0% moisture)",20.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 667 (0% moisture)",19.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 365 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 696 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 334 (0% moisture)",20.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 684 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 360 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 784 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 436 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 825 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 377 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 805 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 462 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 633 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 270 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 442 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 591 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 814 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 503 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 676 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 356 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 816 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 218 (0% moisture)",21.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 563 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 366 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 717 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 437 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 657 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 456 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 700 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 394 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 735 (0% moisture)",26.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 391 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 702 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 361 (0% moisture)",22.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 747 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 358 (0% moisture)",20.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 720 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 398 (0% moisture)",27.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 765 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 516 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 776 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 389 (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 736 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 452 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 728 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 497 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 715 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 373 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 821 (0% moisture)",26.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 479 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 734 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 368 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 640 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 510 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 718 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 426 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 783 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 498 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 634 (0% moisture)",20.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 427 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 695 (0% moisture)",21.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 382 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 661 (0% moisture)",20.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 464 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 770 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 455 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 639 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 469 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 758 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 355 (0% moisture)",19.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 632 (0% moisture)",18.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 511 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 815 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 325 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 751 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 349 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 714 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 408 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 711 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 480 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 808 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 499 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 710 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 343 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 764 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 468 (0% moisture)",30.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 773 (0% moisture)",27.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 371 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 669 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 421 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 663 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 340 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 704 (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 362 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 665 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 432 (0% moisture)",27.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 787 (0% moisture)",29.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 336 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 793 (0% moisture)",28.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 466 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 820 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 450 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 801 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 484 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 729 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 322 (0% moisture)",20.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 678 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 494 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 809 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 496 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 727 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 482 (0% moisture)",20.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 647 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 513 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 660 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 489 (0% moisture)",20.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 738 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 492 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 650 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 463 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 653 (0% moisture)",20.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 440 (0% moisture)",21.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 709 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 517 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 724 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 454 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 812 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 353 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 692 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 506 (0% moisture)",27.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 642 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 420 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 795 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 224 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 413 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 621 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 744 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 451 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 691 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 512 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 749 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 388 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 659 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 352 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 802 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 416 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 754 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 333 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 643 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 425 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 708 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 367 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 807 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 324 (0% moisture)",19.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 668 (0% moisture)",19.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 397 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 733 (0% moisture)",19.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 414 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 671 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 428 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 681 (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 459 (0% moisture)",20.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 775 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 390 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 631 (0% moisture)",21.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 410 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 782 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 381 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 781 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 515 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 740 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 383 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 810 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 520 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 686 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 372 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 791 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 475 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 677 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 329 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 682 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 393 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 705 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 328 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto, 630 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8014 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8142 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8021 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8111 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8009 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8153 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8017 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8169 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8073 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8154 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8011 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8115 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8050 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8161 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8033 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8199 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8056 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 11F-8137 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 400 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 772 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 470 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 798 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 431 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 813 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 505 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 731 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 509 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 690 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 500 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 769 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 417 (0% moisture)",27.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 674 (0% moisture)",27.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 409 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 806 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 419 (0% moisture)",28.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 799 (0% moisture)",28.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 344 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 698 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 376 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 685 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 491 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 673 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 357 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 760 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 240 (0% moisture)",20.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 330 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 606 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 797 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 488 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 722 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 473 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 804 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 405 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 755 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 487 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 646 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 508 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 670 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 374 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 746 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 370 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 786 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 347 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 649 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 403 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 759 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 332 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 635 (0% moisture)",21.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 493 (0% moisture)",20.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 811 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 439 (0% moisture)",20.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 774 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 369 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 785 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 471 (0% moisture)",20.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 757 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 323 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red, 703 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Medium Red, 490 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Medium Red, 756 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Medium Red (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry, 11F-8022 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry, 11F-8131 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry, 378 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry, 750 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Tan, 11F-8086 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Tan, 11F-8174 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Tan (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8045 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8177 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8036 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8122 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8003 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8117 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8016 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8112 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8013 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8180 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8039 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8116 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8023 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8168 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8062 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8150 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8046 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8146 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8000 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8129 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8044 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8158 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8029 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8119 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8002 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8135 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8020 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8140 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8015 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 11F-8123 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 348 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 737 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 298 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 533 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 331 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 745 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 244 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 604 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 250 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 583 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 269 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 566 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 296 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 611 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 276 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 624 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 303 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 617 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 221 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 602 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 305 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 553 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 304 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 601 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 274 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 526 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 232 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 534 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 219 (0% moisture)",21.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 580 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 254 (0% moisture)",22.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 542 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 424 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 267 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 767 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 569 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 249 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 590 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 282 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 597 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 247 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 619 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 222 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 608 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 225 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 573 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 248 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 607 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 223 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 522 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 314 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 531 (0% moisture)",21.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 215 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 615 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 310 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 536 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 318 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 537 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 271 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 545 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 278 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 552 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 266 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 550 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 288 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 572 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 301 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 575 (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 259 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 610 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 395 (0% moisture)",22.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 258 (0% moisture)",22.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 707 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 562 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 227 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 620 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 214 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 547 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 263 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 570 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 251 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 592 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 238 (0% moisture)",26.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 528 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 273 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 529 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 472 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 753 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 286 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 596 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 297 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 600 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 317 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 625 (0% moisture)",22.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 291 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black, 574 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 11F-8057 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 11F-8160 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 239 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 571 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 272 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 618 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 265 (0% moisture)",21.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 527 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 309 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 549 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 285 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 544 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 275 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White, 564 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Red, 345 (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Red, 645 (0% moisture)",21.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Red (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8063 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8128 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8163 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8163 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8087 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8145 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8025 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8141 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8097 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8194 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8053 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8155 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8052 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8134 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8051 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8113 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8093 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8110 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8060 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8184 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8090 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8152 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8085 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8192 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8010 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8185 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8068 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8172 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8067 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8125 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8008 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8171 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8092 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8138 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8077 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 11F-8139 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 441 (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 648 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 446 (0% moisture)",31.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 726 (0% moisture)",28.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 235 (0% moisture)",28.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 579 (0% moisture)",30.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 306 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 594 (0% moisture)",28.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 423 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 651 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 315 (0% moisture)",28.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 581 (0% moisture)",29.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 396 (0% moisture)",21.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 778 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 406 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 688 (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 384 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 644 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 380 (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 748 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 392 (0% moisture)",23.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 658 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 363 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 792 (0% moisture)",23.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 339 (0% moisture)",22.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 713 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 346 (0% moisture)",22.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 780 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 460 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 672 (0% moisture)",22.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 385 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 788 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 429 (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 789 (0% moisture)",24.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 514 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 730 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 501 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 638 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 474 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 790 (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 402 (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 822 (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 350 (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 828 (0% moisture)",28.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 375 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 662 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 337 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 656 (0% moisture)",21.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 467 (0% moisture)",22.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 824 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 507 (0% moisture)",25.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 826 (0% moisture)",27.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 327 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 675 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 401 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 742 (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 518 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 666 (0% moisture)",22.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 457 (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 818 (0% moisture)",26.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 293 (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 412 (0% moisture)",22.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 616 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 689 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 387 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 766 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 519 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 768 (0% moisture)",24.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 418 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 637 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 495 (0% moisture)",26.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 680 (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 335 (0% moisture)",23.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 763 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 364 (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 683 (0% moisture)",24.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 379 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 655 (0% moisture)",23.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 434 (0% moisture)",25.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 716 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 341 (0% moisture)",23.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 697 (0% moisture)",27.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 438 (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 706 (0% moisture)",25.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 449 (0% moisture)",21.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 741 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 407 (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 723 (0% moisture)",24.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 447 (0% moisture)",25.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 827 (0% moisture)",28.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 458 (0% moisture)",26.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 693 (0% moisture)",24.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 415 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 762 (0% moisture)",26.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 453 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 777 (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 485 (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 800 (0% moisture)",25.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 444 (0% moisture)",23.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern, 694 (0% moisture)",26.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",27.7,Beef Products,0,Medium
+"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",22.8,Beef Products,0,Medium
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",23.4,Beef Products,0,Medium
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",23.7,Beef Products,0,Medium
+"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",22.7,Beef Products,0,Medium
+"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",27.3,Beef Products,0,Medium
+"Carrots, frozen, unprepared",0.81,Vegetables and Vegetable Products,1,Low
+"Cheese, dry white, queso seco",24.5,Dairy and Egg Products,0,Medium
+"Cheese, ricotta, whole milk",7.81,Dairy and Egg Products,1,Low
+"Cheese, swiss",27.0,Dairy and Egg Products,0,Medium
+"Figs, dried, uncooked",3.3,Fruits and Fruit Juices,1,Low
+"Lettuce, cos or romaine, raw",1.24,Vegetables and Vegetable Products,1,Low
+"Melons, cantaloupe, raw",0.82,Fruits and Fruit Juices,1,Low
+"Oranges, raw, navels",0.91,Fruits and Fruit Juices,1,Low
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",3.38,Dairy and Egg Products,1,Low
+"Pears, raw, bartlett",0.38,Fruits and Fruit Juices,1,Low
+"Restaurant, Chinese, sweet and sour pork",8.88,Restaurant Foods,1,Low
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",3.43,Dairy and Egg Products,1,Low
+"Sauce, salsa, ready-to-serve",1.44,"Soups, Sauces, and Gravies",1,Low
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",3.36,Dairy and Egg Products,1,Low
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",13.3,Sausages and Luncheon Meats,1,Low
+"Sausage, Italian, pork, mild, cooked, pan-fried",18.2,Sausages and Luncheon Meats,0,Medium
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",19.3,Sausages and Luncheon Meats,0,Medium
+"Milk, whole, 3.25% milkfat, with added vitamin D",3.27,Dairy and Egg Products,1,Low
+"Sausage, turkey, breakfast links, mild, raw",16.7,Sausages and Luncheon Meats,0,Medium
+"Sugars, granulated",0.0,Sweets,1,Low
+"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",27.1,Poultry Products,0,Medium
+"Ham, sliced, restaurant",19.6,Pork Products,0,Medium
+"Cheese, American, restaurant",17.5,Dairy and Egg Products,0,Medium
+"Beans, Dry, Medium Red (0% moisture)",25.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Red (0% moisture)",21.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Flor de Mayo (0% moisture)",23.3,Legumes and Legume Products,0,Medium
+"Beans, Dry, Brown (0% moisture)",25.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Tan (0% moisture)",26.8,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Tan (0% moisture)",24.6,Legumes and Legume Products,0,Medium
+"Beans, Dry, Carioca (0% moisture)",25.2,Legumes and Legume Products,0,Medium
+"Beans, Dry, Cranberry (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Light Red Kidney (0% moisture)",25.0,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pink (0% moisture)",23.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Dark Red Kidney (0% moisture)",25.9,Legumes and Legume Products,0,Medium
+"Beans, Dry, Navy (0% moisture)",24.1,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small White (0% moisture)",24.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Small Red (0% moisture)",23.5,Legumes and Legume Products,0,Medium
+"Beans, Dry, Black (0% moisture)",24.4,Legumes and Legume Products,0,Medium
+"Beans, Dry, Pinto (0% moisture)",23.7,Legumes and Legume Products,0,Medium
+"Beans, Dry, Great Northern (0% moisture)",24.7,Legumes and Legume Products,0,Medium
+"Broccoli, raw",2.57,Vegetables and Vegetable Products,1,Low
+"Strawberries, raw",0.64,Fruits and Fruit Juices,1,Low
+"Ketchup, restaurant",1.11,Vegetables and Vegetable Products,1,Low
+"Eggs, Grade A, Large, egg white",10.7,Dairy and Egg Products,1,Low
+"Eggs, Grade A, Large, egg yolk",16.2,Dairy and Egg Products,0,Medium
+"Eggs, Grade A, Large, egg whole",12.4,Dairy and Egg Products,1,Low
+"Pork, cured, bacon, cooked, restaurant",40.9,Pork Products,0,Medium
+"Flour, wheat, all-purpose, enriched, bleached",10.9,Cereal Grains and Pasta,1,Low
+"Flour, wheat, all-purpose, enriched, unbleached",13.1,Cereal Grains and Pasta,1,Low
+"Flour, wheat, all-purpose, unenriched, unbleached",12.0,Cereal Grains and Pasta,1,Low
+"Flour, whole wheat, unenriched",15.1,Cereal Grains and Pasta,0,Medium
+"Flour, bread, white, enriched, unbleached",14.3,Cereal Grains and Pasta,0,Medium
+"Flour, rice, white, unenriched",6.94,Cereal Grains and Pasta,1,Low
+"Flour, corn, yellow, fine meal, enriched",6.2,Cereal Grains and Pasta,1,Low
+"ONIONS, RED",1.12,Vegetables and Vegetable Products,1,Low
+"ONIONS, RED",1.15,Vegetables and Vegetable Products,1,Low
+"ONIONS, RED",0.96,Vegetables and Vegetable Products,1,Low
+"ONIONS, RED",0.81,Vegetables and Vegetable Products,1,Low
+"ONIONS, RED",0.72,Vegetables and Vegetable Products,1,Low
+"ONIONS, RED",0.89,Vegetables and Vegetable Products,1,Low
+"Onions, red, raw",0.94,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.88,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.93,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.7,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.83,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.93,Vegetables and Vegetable Products,1,Low
+"ONIONS, YELLOW",0.72,Vegetables and Vegetable Products,1,Low
+"Onions, yellow, raw",0.83,Vegetables and Vegetable Products,1,Low
+"Bananas, overripe, raw",0.73,Fruits and Fruit Juices,1,Low
+"Bananas, ripe and slightly ripe, raw",0.74,Fruits and Fruit Juices,1,Low
+"Garlic, raw",6.62,Vegetables and Vegetable Products,1,Low
+"Flour, soy, defatted",51.1,Legumes and Legume Products,0,Medium
+"Flour, soy, full-fat",38.6,Legumes and Legume Products,0,Medium
+"Flour, rice, brown",7.19,Cereal Grains and Pasta,1,Low
+"Flour, rice, glutinous",6.69,Cereal Grains and Pasta,1,Low
+"Flour, pastry, unenriched, unbleached",8.75,Cereal Grains and Pasta,1,Low
+"Onions, white, raw",0.89,Vegetables and Vegetable Products,1,Low
+"Bananas, overripe, raw",0.73,Fruits and Fruit Juices,1,Low
+"Bananas, ripe and slightly ripe, raw",0.74,Fruits and Fruit Juices,1,Low
+"Apples, red delicious, with skin, raw",0.19,Fruits and Fruit Juices,1,Low
+"Apples, honeycrisp, with skin, raw",0.1,Fruits and Fruit Juices,1,Low
+"Apples, granny smith, with skin, raw",0.27,Fruits and Fruit Juices,1,Low
+"Apples, gala, with skin, raw",0.13,Fruits and Fruit Juices,1,Low
+"Apples, fuji, with skin, raw",0.15,Fruits and Fruit Juices,1,Low
+"Soy milk, unsweetened, plain, shelf stable",3.546875,Legumes and Legume Products,1,Low
+"Almond milk, unsweetened, plain, shelf stable",0.5546875,Beverages,1,Low
+"Apples, red delicious, with skin, raw",0.1875,Fruits and Fruit Juices,1,Low
+"Apples, fuji, with skin, raw",0.1484375,Fruits and Fruit Juices,1,Low
+"Apples, gala, with skin, raw",0.1328125,Fruits and Fruit Juices,1,Low
+"Apples, granny smith, with skin, raw",0.265625,Fruits and Fruit Juices,1,Low
+"Apples, honeycrisp, with skin, raw",0.1015625,Fruits and Fruit Juices,1,Low
+"Mushroom, lion's mane",2.5,Vegetables and Vegetable Products,1,Low
+"Mushroom, oyster",2.89875,Vegetables and Vegetable Products,1,Low
+"Mushrooms, shiitake",2.414375,Vegetables and Vegetable Products,1,Low
+"Mushrooms, white button",2.890625,Vegetables and Vegetable Products,1,Low
+"Spinach, baby",2.851875,Vegetables and Vegetable Products,1,Low
+"Spinach, mature",2.90625,Vegetables and Vegetable Products,1,Low
+"Tomato, roma",0.695625,Vegetables and Vegetable Products,1,Low
+"Mushroom, lion's mane",2.5,Vegetables and Vegetable Products,1,Low
+"Mushroom, oyster",2.89875,Vegetables and Vegetable Products,1,Low
+"Mushrooms, shiitake",2.414375,Vegetables and Vegetable Products,1,Low
+"Mushrooms, white button",2.890625,Vegetables and Vegetable Products,1,Low
+"Soy milk, unsweetened, plain, shelf stable",3.546875,Legumes and Legume Products,1,Low
+"Almond milk, unsweetened, plain, shelf stable",0.5546875,Beverages,1,Low
+"Spinach, baby",2.851875,Vegetables and Vegetable Products,1,Low
+"Spinach, mature",2.90625,Vegetables and Vegetable Products,1,Low
+"Tomato, roma",0.695625,Vegetables and Vegetable Products,1,Low
+"Flour, 00",11.4,Cereal Grains and Pasta,1,Low
+"Flour, spelt, whole grain",14.475,Cereal Grains and Pasta,0,Medium
+"Flour, semolina, coarse and semi-coarse",11.73125,Cereal Grains and Pasta,1,Low
+"Flour, semolina, fine",13.33125,Cereal Grains and Pasta,1,Low
+"Apple juice, with added vitamin C, from concentrate, shelf stable",0.0859375,Fruits and Fruit Juices,1,Low
+"Orange juice, no pulp, not fortified, from concentrate, refrigerated",0.734375,Fruits and Fruit Juices,1,Low
+"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",0.2578125,Fruits and Fruit Juices,1,Low
+"Grape juice, white, with added vitamin C, from concentrate, shelf stable",0.09375,Fruits and Fruit Juices,1,Low
+"Cranberry juice, not fortified, from concentrate, shelf stable",0.0,Fruits and Fruit Juices,1,Low
+"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",0.5703125,Fruits and Fruit Juices,1,Low
+"Tomato juice, with added ingredients, from concentrate, shelf stable",0.859375,Vegetables and Vegetable Products,1,Low
+"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",0.8125,Fruits and Fruit Juices,1,Low
+"Mushroom, portabella",2.75,Vegetables and Vegetable Products,1,Low
+"Mushroom, king oyster",2.40625,Vegetables and Vegetable Products,1,Low
+"Mushroom, enoki",2.416875,Vegetables and Vegetable Products,1,Low
+"Mushroom, crimini",3.09375,Vegetables and Vegetable Products,1,Low
+"Mushroom, maitake",2.203125,Vegetables and Vegetable Products,1,Low
+"Mushroom, beech",2.18,Vegetables and Vegetable Products,1,Low
+"Mushroom, pioppini",3.5,Vegetables and Vegetable Products,1,Low
+"Soy milk, sweetened, plain, refrigerated",2.776875,Legumes and Legume Products,1,Low
+"Almond milk, unsweetened, plain, refrigerated",0.65625,Beverages,1,Low
+"Oat milk, unsweetened, plain, refrigerated",0.796875,Beverages,1,Low
+"Carrots, mature, raw",0.94125,Vegetables and Vegetable Products,1,Low
+"Carrots, baby, raw",0.805,Vegetables and Vegetable Products,1,Low
+"Peppers, bell, green, raw",0.715,Vegetables and Vegetable Products,1,Low
+"Peppers, bell, yellow, raw",0.819375,Vegetables and Vegetable Products,1,Low
+"Peppers, bell, red, raw",0.895625,Vegetables and Vegetable Products,1,Low
+"Peppers, bell, orange, raw",0.881875,Vegetables and Vegetable Products,1,Low
+"Buttermilk, low fat",3.464978,Dairy and Egg Products,1,Low
+"Yogurt, plain, whole milk",3.824172,Dairy and Egg Products,1,Low
+"Yogurt, Greek, plain, whole milk",8.77888,Dairy and Egg Products,1,Low
+"Cheese, parmesan, grated, refrigerated",30.13912,Dairy and Egg Products,0,Medium
+"Cheese, feta, whole milk, crumbled",19.70782,Dairy and Egg Products,0,Medium
+"Flour, almond",26.24375,Nut and Seed Products,0,Medium
+"Flour, oat, whole grain",13.16875,Cereal Grains and Pasta,1,Low
+"Flour, potato",8.1125,Vegetables and Vegetable Products,1,Low
+"Peanut butter, creamy",23.99124,Legumes and Legume Products,0,Medium
+"Sesame butter, creamy",19.7054,Nut and Seed Products,0,Medium
+"Almond butter, creamy",20.78734,Nut and Seed Products,0,Medium
+"Flaxseed, ground",18.0359,Nut and Seed Products,0,Medium
+"Strawberries, raw",0.640625,Fruits and Fruit Juices,1,Low
+"Raspberries, raw",1.008125,Fruits and Fruit Juices,1,Low
+"Blueberries, raw",0.703125,Fruits and Fruit Juices,1,Low
+"Grapes, red, seedless, raw",0.914375,Fruits and Fruit Juices,1,Low
+"Grapes, green, seedless, raw",0.89875,Fruits and Fruit Juices,1,Low
+"Applesauce, unsweetened, with added vitamin C",0.2734375,Fruits and Fruit Juices,1,Low
+"Cottage cheese, full fat, large or small curd",11.62436,Dairy and Egg Products,1,Low
+"Cream cheese, full fat, block",5.78985,Dairy and Egg Products,1,Low
+"Cream, heavy",2.017994,Dairy and Egg Products,1,Low
+"Cream, sour, full fat",3.070694,Dairy and Egg Products,1,Low
+"Lettuce, iceberg, raw",0.7425,Vegetables and Vegetable Products,1,Low
+"Lettuce, romaine, green, raw",0.976875,Vegetables and Vegetable Products,1,Low
+"Lettuce, leaf, red, raw",0.883125,Vegetables and Vegetable Products,1,Low
+"Lettuce, leaf, green, raw",1.09375,Vegetables and Vegetable Products,1,Low
+"Nuts, pine nuts, raw",15.7039,Nut and Seed Products,0,Medium
+"Nuts, almonds, whole, raw",21.45038,Nut and Seed Products,0,Medium
+"Nuts, walnuts, English, halves, raw",14.5644,Nut and Seed Products,0,Medium
+"Nuts, pecans, halves, raw",9.9587,Nut and Seed Products,1,Low
+"Oats, whole grain, rolled, old fashioned",13.49645,Cereal Grains and Pasta,1,Low
+"Oats, whole grain, steel cut",12.51118,Cereal Grains and Pasta,1,Low
+"Pineapple, raw",0.4609375,Fruits and Fruit Juices,1,Low
+"Cherries, sweet, dark red, raw",1.039375,Fruits and Fruit Juices,1,Low
+"Beans, snap, green, raw",1.96875,Vegetables and Vegetable Products,1,Low
+"Potatoes, russet, without skin, raw",2.27375,Vegetables and Vegetable Products,1,Low
+"Potatoes, red, without skin, raw",2.0625,Vegetables and Vegetable Products,1,Low
+"Potatoes, gold, without skin, raw",1.8125,Vegetables and Vegetable Products,1,Low
+"Sweet potatoes, orange flesh, without skin, raw",1.578125,Vegetables and Vegetable Products,1,Low
+"Celery, raw",0.4921875,Vegetables and Vegetable Products,1,Low
+"Cucumber, with peel, raw",0.625,Vegetables and Vegetable Products,1,Low
+"Cabbage, green, raw",0.96125,Vegetables and Vegetable Products,1,Low
+"Cabbage, red, raw",1.2425,Vegetables and Vegetable Products,1,Low
+"Strawberries, raw",0.640625,Fruits and Fruit Juices,1,Low
+"Raspberries, raw",1.008125,Fruits and Fruit Juices,1,Low
+"Blueberries, raw",0.703125,Fruits and Fruit Juices,1,Low
+"Grapes, red, seedless, raw",0.914375,Fruits and Fruit Juices,1,Low
+"Grapes, green, seedless, raw",0.89875,Fruits and Fruit Juices,1,Low
+"Applesauce, unsweetened, with added vitamin C",0.2734375,Fruits and Fruit Juices,1,Low
+"Flour, amaranth",13.2093,Cereal Grains and Pasta,1,Low
+"Flour, quinoa",11.92235,Cereal Grains and Pasta,1,Low
+"Flour, sorghum",8.27277,Cereal Grains and Pasta,1,Low
+"Flour, buckwheat",8.88492,Cereal Grains and Pasta,1,Low
+"Flour, rye",8.3952,Cereal Grains and Pasta,1,Low
+"Flour, barley",8.72168,Cereal Grains and Pasta,1,Low
+"Flour, cassava",0.918225,Vegetables and Vegetable Products,1,Low
+"Buckwheat, whole grain",11.06534,Cereal Grains and Pasta,1,Low
+"Millet, whole grain",10.02177,Cereal Grains and Pasta,1,Low
+"Rice, brown, long grain, unenriched, raw",7.25305,Cereal Grains and Pasta,1,Low
+"Rice, white, long grain, unenriched, raw",7.03885,Cereal Grains and Pasta,1,Low
+"Beef, ground, 90% lean meat / 10% fat, raw",18.15625,Beef Products,0,Medium
+"Beef, ground, 80% lean meat / 20% fat, raw",17.53125,Beef Products,0,Medium
+"Pork, ground, raw",17.80625,Pork Products,0,Medium
+"Chicken, ground, with additives, raw",17.9125,Poultry Products,0,Medium
+"Turkey, ground, 93% lean/ 7% fat, raw",17.34375,Poultry Products,0,Medium
+"Nuts, brazilnuts, raw",15.03684,Nut and Seed Products,0,Medium
+"Nuts, cashew nuts, raw",17.4423,Nut and Seed Products,0,Medium
+"Nuts, hazelnuts or filberts, raw",13.4938,Nut and Seed Products,1,Low
+"Peanuts, raw",23.205,Legumes and Legume Products,0,Medium
+"Flour, chestnut",5.28675,Nut and Seed Products,1,Low
+"Nuts, macadamia nuts, raw",7.7857,Nut and Seed Products,1,Low
+"Nuts, pistachio nuts, raw",20.5057,Nut and Seed Products,0,Medium
+"Seeds, pumpkin seeds (pepitas), raw",29.9079,Nut and Seed Products,0,Medium
+"Seeds, sunflower seed, kernel, raw",18.8733,Nut and Seed Products,0,Medium
+"Flour, coconut",16.1385,Nut and Seed Products,0,Medium
+"Beans, cannellini, dry",21.5625,Legumes and Legume Products,0,Medium
+"Chickpeas, (garbanzo beans, bengal gram), dry",21.275,Legumes and Legume Products,0,Medium
+"Lentils, dry",23.56875,Legumes and Legume Products,0,Medium
+"Blackeye pea, dry",21.225,Legumes and Legume Products,0,Medium
+"Beans, black, canned, sodium added, drained and rinsed",6.9125,Legumes and Legume Products,1,Low
+"Beans, navy, canned, sodium added, drained and rinsed",6.56875,Legumes and Legume Products,1,Low
+"Beans, cannellini, canned, sodium added, drained and rinsed",7.4125,Legumes and Legume Products,1,Low
+"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",7.01875,Legumes and Legume Products,1,Low
+"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",7.8,Legumes and Legume Products,1,Low
+"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",7.30625,Legumes and Legume Products,1,Low
+"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",4.734375,Vegetables and Vegetable Products,1,Low
+"Beans, pinto, canned, sodium added, drained and rinsed",6.69375,Legumes and Legume Products,1,Low
+"Blackeye pea, canned, sodium added, drained and rinsed",6.925,Legumes and Legume Products,1,Low
+"Beans, great northern, canned, sodium added, drained and rinsed",7.03125,Legumes and Legume Products,1,Low
+"Pork, loin, boneless, raw",21.11875,Pork Products,0,Medium
+"Pork, loin, tenderloin, boneless, raw",21.58125,Pork Products,0,Medium
+"Chicken, breast, boneless, skinless, raw",22.525,Poultry Products,0,Medium
+"Chicken, thigh, boneless, skinless, raw",18.6125,Poultry Products,0,Medium
+"Beef, ribeye, steak, boneless, choice, raw",18.74375,Beef Products,0,Medium
+"Beef, round, top round, boneless, choice, raw",21.475,Beef Products,0,Medium
+"Beef, chuck, roast, boneless, choice, raw",18.4,Beef Products,0,Medium
+"Beef, flank, steak, boneless, choice, raw",20.13125,Beef Products,0,Medium
+"Yogurt, plain, nonfat",4.22675,Dairy and Egg Products,1,Low
+"Cheese, monterey jack, solid",22.6171,Dairy and Egg Products,0,Medium
+"Cheese, pasteurized process cheese food or product, American, singles",15.5672,Dairy and Egg Products,0,Medium
+"Cheese, provolone, sliced",23.45288,Dairy and Egg Products,0,Medium
+"Cheese, oaxaca, solid",22.14498,Dairy and Egg Products,0,Medium
+"Cheese, queso fresco, solid",18.8848,Dairy and Egg Products,0,Medium
+"Cheese, cotija, solid",23.83568,Dairy and Egg Products,0,Medium
+"Fish, salmon, sockeye, wild caught, raw",22.3,Finfish and Shellfish Products,0,Medium
+"Fish, salmon, Atlantic, farm raised, raw",20.31875,Finfish and Shellfish Products,0,Medium
+"Fish, tilapia, farm raised, raw",19.0,Finfish and Shellfish Products,0,Medium
+"Crustaceans, shrimp, farm raised, raw",15.56875,Finfish and Shellfish Products,0,Medium
+"Fish, cod, Atlantic, wild caught, raw",16.06875,Finfish and Shellfish Products,0,Medium
+"Fish, catfish, farm raised, raw",16.46875,Finfish and Shellfish Products,0,Medium
+"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",18.65,Finfish and Shellfish Products,0,Medium
+"Squash, summer, green, zucchini, includes skin, raw",0.984375,Vegetables and Vegetable Products,1,Low
+"Squash, summer, yellow, includes skin, raw",0.890625,Vegetables and Vegetable Products,1,Low
+"Squash, winter, butternut, raw",1.14875,Vegetables and Vegetable Products,1,Low
+"Squash, winter, acorn, raw",1.25,Vegetables and Vegetable Products,1,Low
+"Cabbage, bok choy, raw",1.02375,Vegetables and Vegetable Products,1,Low
+"Cauliflower, raw",1.640625,Vegetables and Vegetable Products,1,Low
+"Collards, raw",2.96875,Vegetables and Vegetable Products,1,Low
+"Brussels sprouts, raw",3.984375,Vegetables and Vegetable Products,1,Low
+"Beets, raw",1.6875,Vegetables and Vegetable Products,1,Low
+"Eggplant, raw",0.851875,Vegetables and Vegetable Products,1,Low
+"Tomatoes, whole, canned, solids and liquids, with salt added",0.8675,Vegetables and Vegetable Products,1,Low
+"Tomato, sauce, canned, with salt added",1.351875,Vegetables and Vegetable Products,1,Low
+"Tomato, paste, canned, without salt added",4.234375,Vegetables and Vegetable Products,1,Low
+"Tomatoes, crushed, canned",1.4375,Vegetables and Vegetable Products,1,Low
+"Tomato, puree, canned",1.578125,Vegetables and Vegetable Products,1,Low
+"Apricot, with skin, raw",0.96125,Fruits and Fruit Juices,1,Low
+"Melons, honeydew, raw",0.53125,Fruits and Fruit Juices,1,Low
+"Plantains, ripe, raw",1.15625,Fruits and Fruit Juices,1,Low
+"Plantains, underripe, raw",1.229375,Fruits and Fruit Juices,1,Low
+"Chia seeds, dry, raw",17.013,Cereal Grains and Pasta,0,Medium
+"Bulgur, dry, raw",11.75625,Cereal Grains and Pasta,1,Low
+"Wild rice, dry, raw",12.7875,Cereal Grains and Pasta,1,Low
+"Arugula, baby, raw",1.64875,Vegetables and Vegetable Products,1,Low
+"Asparagus, green, raw",1.4375,Vegetables and Vegetable Products,1,Low
+"Avocado, Hass, peeled, raw",1.8125,Fruits and Fruit Juices,1,Low
+"Rice, black, unenriched, raw",7.56875,Cereal Grains and Pasta,1,Low
+"Corn, sweet, yellow and white kernels,  fresh, raw",2.789375,Vegetables and Vegetable Products,1,Low
+"Einkorn, grain, dry, raw",15.11719,Cereal Grains and Pasta,0,Medium
+"Farro, pearled, dry, raw",12.63944,Cereal Grains and Pasta,1,Low
+"Fonio, grain, dry, raw",7.16875,Cereal Grains and Pasta,1,Low
+"Khorasan, grain, dry, raw",14.75573,Cereal Grains and Pasta,0,Medium
+"Kiwifruit (kiwi), green, peeled, raw",1.008125,Fruits and Fruit Juices,1,Low
+"Mandarin, seedless, peeled, raw",1.039375,Fruits and Fruit Juices,1,Low
+"Mango, Tommy Atkins, peeled, raw",0.5625,Fruits and Fruit Juices,1,Low
+"Mango, Ataulfo, peeled, raw",0.6875,Fruits and Fruit Juices,1,Low
+"Corn flour, masa harina, white or yellow, dry, raw",7.5625,Cereal Grains and Pasta,1,Low
+"Pear, Anjou, green, with skin, raw",0.3125,Fruits and Fruit Juices,1,Low
+"Plum, black, with skin, raw",0.578125,Fruits and Fruit Juices,1,Low
+"Rice, red, unenriched, dry, raw",8.5625,Cereal Grains and Pasta,1,Low
+"Sorghum bran, white, unenriched, dry, raw",11.16875,Cereal Grains and Pasta,1,Low
+"Sorghum flour, white, pearled, unenriched, dry, raw",10.2125,Cereal Grains and Pasta,1,Low
+"Sorghum grain, white, pearled, unenriched, dry, raw",10.25,Cereal Grains and Pasta,1,Low
+"Sorghum, whole grain, white, dry, raw",10.08125,Cereal Grains and Pasta,1,Low
+"Plantains, overripe, raw",1.166875,Fruits and Fruit Juices,1,Low
+"Chicken, drumstick, meat and skin, raw",18.35625,Poultry Products,0,Medium
+"Chicken, thigh, meat and skin, raw",17.10625,Poultry Products,0,Medium
+"Chicken, wing, meat and skin, raw",18.40625,Poultry Products,0,Medium
+"Chicken, breast, meat and skin, raw",21.40625,Poultry Products,0,Medium
+"Lamb, ground, raw",17.4625,"Lamb, Veal, and Game Products",0,Medium
+"Bison, ground, raw",19.88125,"Lamb, Veal, and Game Products",0,Medium
+"Beef, short loin (NY strip steak), raw",21.325,Beef Products,0,Medium
+"Beef, tenderloin steak, raw",21.09375,Beef Products,0,Medium
+"Beef, top sirloin steak, raw",21.975,Beef Products,0,Medium
+"Pork, chop, center cut, raw",22.8125,Pork Products,0,Medium
+"Pork, belly, with skin, raw",15.2,Pork Products,0,Medium
+"Pawpaw, peeled, seeded, raw",1.151875,Fruits and Fruit Juices,1,Low
+"Squash, pie pumpkin, peeled, seeded, raw",0.854375,Vegetables and Vegetable Products,1,Low
+"Squash, spaghetti, peeled, seeded, raw",0.791875,Vegetables and Vegetable Products,1,Low
+"Rutabaga, peeled, raw",0.8875,Vegetables and Vegetable Products,1,Low
+"Blackberries, raw",1.52625,Fruits and Fruit Juices,1,Low
+"Tomatillos, dehusked, raw",1.064375,Vegetables and Vegetable Products,1,Low
+"Cabbage, napa, leaf, destemmed, raw",1.06375,Vegetables and Vegetable Products,1,Low
+"Leeks, bulb and greens, root removed, raw",1.4675,Vegetables and Vegetable Products,1,Low
+"Green onion, (scallion), bulb and greens, root removed, raw",0.66875,Vegetables and Vegetable Products,1,Low
+"Shallots, bulb, peeled, root removed, raw",1.3775,Vegetables and Vegetable Products,1,Low
+"Juice, prune, shelf-stable",0.422625,Fruits and Fruit Juices,1,Low
+"Juice, pomegranate, from concentrate, shelf-stable",0.0,Fruits and Fruit Juices,1,Low
+"Juice, tart cherry, from concentrate, shelf-stable",0.1465625,Fruits and Fruit Juices,1,Low
